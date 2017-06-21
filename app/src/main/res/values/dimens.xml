@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius_balloon">4dp</dimen>
+    <dimen name="padding_balloon">10dp</dimen>
+</resources>
